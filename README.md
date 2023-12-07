@@ -38,3 +38,8 @@ To install dependencies run:
 ```bash
 pip install -r requirements.txt
 ```
+
+## Additional Information
+- [TensorFlow](https://www.tensorflow.org/)
+- [Keras](https://keras.io/)
+- [MNIST Dataset](http://yann.lecun.com/exdb/mnist/)
